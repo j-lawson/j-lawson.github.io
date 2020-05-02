@@ -7,7 +7,7 @@ I'm a biomedical data scientist who applies bioinformatics and data science appr
 
 ### Experience
 
-![Curriculum Vitae (CV)]()
+![Curriculum Vitae (CV)](./docs/Lawson_CV_website.pdf)
 
 Check out some of my work:
 

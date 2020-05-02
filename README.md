@@ -7,12 +7,12 @@ I'm a biomedical data scientist who applies bioinformatics and data science appr
 
 ### Experience
 
-![Curriculum Vitae (CV)](./docs/Lawson_CV_website.pdf)
+[Curriculum Vitae (CV)](./docs/Lawson_CV_website.pdf)
 
 Check out some of my work:
 
-- [COCOA: An R/Bioconductor package that uses covariation of epigenetic signals across individuals to annotate interindividual epigenetic variation](http://bioconductor.org/packages/release/bioc/html/COCOA.html)
-- [MIRA: An R/Bioconductor package that aggregates DNA methylation in related loci across the genome to infer regulatory information](http://bioconductor.org/packages/release/bioc/html/MIRA.html)
+- [COCOA](http://bioconductor.org/packages/release/bioc/html/COCOA.html): An R/Bioconductor package that uses covariation of epigenetic signals across individuals to annotate interindividual epigenetic variation
+- [MIRA](http://bioconductor.org/packages/release/bioc/html/MIRA.html): An R/Bioconductor package that aggregates DNA methylation in related loci across the genome to infer regulatory information
 
 ### Contact
 

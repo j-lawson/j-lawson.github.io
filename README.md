@@ -3,7 +3,7 @@
 <img src="./photos/john_main.jpg" width="340" height="510" />
 
 
-I'm a biomedical data scientist who applies bioinformatics and data science approaches to understand gene regulation. I received my PhD from the University of Virginia, where I did research with [Dr. Nathan Sheffield](http://databio.org/) creating novel computational methods to understand gene regulation and applying them in the context of cancer epigenetics.
+I'm a biomedical data scientist who applies bioinformatics and data science approaches to understand gene regulation. I received my PhD from the University of Virginia where I did research with [Dr. Nathan Sheffield](http://databio.org/) creating novel computational methods to understand gene regulation and applying them in the context of cancer epigenetics.
 
 ### Consulting
 
